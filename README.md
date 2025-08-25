@@ -10,7 +10,8 @@ El objetivo es presentar de manera clara los fundamentos de este tipo de redes u
 - ✨ **Introducción**: ¿Qué son las CNNs y para qué se usan?  
 - 🧩 **Capas principales**: convolución, pooling, capas ocultas y de salida.  
 - 📊 **Ejemplo ilustrativo**: cómo fluye la información a través de la red.  
-- 🎯 **Aplicaciones**: clasificación de imágenes, reconocimiento facial, visión artificial, entre otros.  
+- 🎯 **Aplicaciones**: clasificación de imágenes, reconocimiento facial, visión artificial, entre otros.
+- 📚 **Bibliografía**: Fuentes digitales de donde se recopilo informacion
 
 ---
 
@@ -25,3 +26,16 @@ O descargarlo y ejecutarlo localmente:
 git clone https://github.com/marie-adi/CNN.git
 cd CNN
 jupyter notebook CNN.ipynb
+```
+---
+
+## 📚 Recursos recomendados
+
+- 🐍 Python 3.x
+
+- Jupyter Notebook / Jupyter Lab
+
+
+✨ Autoría
+
+👩‍💻 Creado con fines educativos y de divulgación por Marie-adi
