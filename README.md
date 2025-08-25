@@ -35,7 +35,8 @@ jupyter notebook CNN.ipynb
 
 - Jupyter Notebook / Jupyter Lab
 
+---
 
-✨ Autoría
+**✨ Autoría**
 
 👩‍💻 Creado con fines educativos y de divulgación por Marie-adi
